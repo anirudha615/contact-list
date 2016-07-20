@@ -1,0 +1,26 @@
+{
+  "name": "Anirudha Bhaskar's app",
+  "version": "4.3.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anirudha615/contact-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudha615/contact-list/issues"
+  },
+  "homepage": "https://github.com/anirudha615/contact-list"
+}
